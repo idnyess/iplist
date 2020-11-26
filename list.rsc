@@ -278,6 +278,8 @@ add address=193.112.192.0/18 comment=\
     "AS132203 Tencent Building, Kejizhongyi Avenue" list=games
 add address=162.62.52.0/22 comment=\
     "AS132203 Tencent Building, Kejizhongyi Avenue" list=games
+add address=162.62.158.0/23 comment=\
+    "AS132203 Tencent Building, Kejizhongyi Avenue (Singapore)" list=games
 add address=101.32.0.0/16 comment=\
     "AS132203 Tencent Building, Kejizhongyi Avenue" list=games
 add address=45.124.252.0/24 comment="AS21859 Zenlayer Inc (hongkong)" list=\
@@ -350,4 +352,6 @@ add address=103.16.137.0/24 comment="PT Abhinawa Sumberdaya Asia (Jakarta)" \
 add address=103.152.14.0/24 comment="Kaopu Cloud HK Limited (China)" list=\
     games
 add address=203.205.146.0/24 comment=\
+    "Tencent Building, Kejizhongyi Avenue (Hongkong)" list=games
+add address=203.205.219.0/24 comment=\
     "Tencent Building, Kejizhongyi Avenue (Hongkong)" list=games
