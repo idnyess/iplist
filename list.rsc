@@ -351,7 +351,11 @@ add address=103.16.137.0/24 comment="PT Abhinawa Sumberdaya Asia (Jakarta)" \
     list=games
 add address=103.152.14.0/24 comment="Kaopu Cloud HK Limited (China)" list=\
     games
+add address=202.81.100.0/24 comment="Garena Online Pte Ltd (SIngapore)" list=\
+    games
 add address=203.205.146.0/24 comment=\
     "Tencent Building, Kejizhongyi Avenue (Hongkong)" list=games
 add address=203.205.219.0/24 comment=\
+    "Tencent Building, Kejizhongyi Avenue (Hongkong)" list=games
+add address=203.205.234.0/23 comment=\
     "Tencent Building, Kejizhongyi Avenue (Hongkong)" list=games
