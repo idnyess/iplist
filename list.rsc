@@ -365,3 +365,5 @@ add address=162.62.156.0/23 comment=\
     "Tencent Building, Kejizhongyi Avenue (Singapore)" list=games
 add address=203.205.238.0/23 comment=\
     "Tencent Building, Kejizhongyi Avenue (Hongkong)" list=games
+add address=107.150.112.0/24 comment="AS21859 Zenlayer Inc (singapore)" list=\
+    games
