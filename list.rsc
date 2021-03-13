@@ -1,6 +1,6 @@
 # mar/14/2021 00:09:39
 /ip firewall address-list
-add list=nice address="1.2.3.4"
+add list=games address="1.2.3.4"
 rem [find list="games"]
 add address=119.81.64.0/18 comment="Softlayer Singapore" list=games
 add address=23.236.118.0/24 comment="Zenlayer Singapore" list=games
