@@ -1,13 +1,15 @@
-# mar/14/2021 00:09:39
+# mar/14/2021 14:39:39
 /ip firewall address-list
-add address=1.2.3.4 list=games
-remove [find list=games]
+add list=nice address="1.2.3.4"
+rem [find list="games"]
 add address=119.81.64.0/18 comment="Softlayer Singapore" list=games
 add address=23.236.118.0/24 comment="Zenlayer Singapore" list=games
 add address=128.1.87.0/24 comment="Zenlayer Singapore" list=games
 add address=129.227.32.0/20 comment="Zenlayer Singapore" list=games
 add address=161.202.192.0/19 comment="Softlayer Singapore" list=games
 add address=164.52.2.0/24 comment="Captitalonline Singapore" list=games
+add address=148.153.144.0/22 comment="Captitalonline Singapore" list=games
+add address=164.52.39.0/24 comment="Captitalonline Singapore" list=games
 add address=119.81.128.0/18 comment="Softlayer Singapore" list=games
 add address=125.161.136.0/22 comment="Telkom Singapore" list=games
 add address=119.81.0.0/18 comment="Softlayer Singapore" list=games
