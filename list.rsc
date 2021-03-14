@@ -18,4 +18,5 @@ add address=119.81.192.0/19 comment="Softlayer Singapore" list=games
 add address=128.1.61.0/24 comment="Softlayer Singapore" list=games
 add address=129.227.67.0/24 comment="Zenlayer Singapore" list=games
 add address=161.202.160.0/19 comment="Softlayer Singapore" list=games
+add address=161.202.0.0/19 comment="Softlayer Singapore" list=games
 add address=164.52.106.0/24 comment="Captitalonline Singapore" list=games
