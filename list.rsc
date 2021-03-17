@@ -23,3 +23,5 @@ add address=161.202.0.0/19 comment="Softlayer Singapore" list=games
 add address=46.8.117.0/24 comment="AgotoZ Singapore" list=games
 add address=143.92.120.0/24 comment="Garena Singapore" list=games
 add address=34.124.0.0/14 comment="Google Singapore" list=games
+add address=35.244.0.0/14 comment="Google Singapore" list=games
+add address=92.38.183.0/24 comment="G-core Singapore" list=games
