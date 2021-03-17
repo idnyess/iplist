@@ -1,4 +1,4 @@
-# mar/16/2021 23:51:39
+# mar/18/2021 01:02:39
 /ip firewall address-list
 add list=games address="1.2.3.4"
 rem [find list="games"]
