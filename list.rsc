@@ -1,4 +1,4 @@
-# mar/18/2021 01:02:39
+# mar/18/2021 22:02:39
 /ip firewall address-list
 add list=games address="1.2.3.4"
 rem [find list="games"]
@@ -25,3 +25,4 @@ add address=143.92.120.0/24 comment="Garena Singapore" list=games
 add address=34.124.0.0/14 comment="Google Singapore" list=games
 add address=35.244.0.0/14 comment="Google Singapore" list=games
 add address=92.38.183.0/24 comment="G-core Singapore" list=games
+add address=107.155.56.0/24 comment="UCloud Singapore" list=games
