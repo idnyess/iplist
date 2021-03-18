@@ -26,3 +26,4 @@ add address=34.124.0.0/14 comment="Google Singapore" list=games
 add address=35.244.0.0/14 comment="Google Singapore" list=games
 add address=92.38.183.0/24 comment="G-core Singapore" list=games
 add address=107.155.56.0/24 comment="UCloud Singapore" list=games
+add address=119.81.0.0/16 comment="Softlayer Singapore" list=games
