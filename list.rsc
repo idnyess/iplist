@@ -29,3 +29,4 @@ add address=107.155.56.0/24 comment="UCloud Singapore" list=games
 add address=119.81.0.0/16 comment="Softlayer Singapore" list=games
 add address=161.117.0.0/16 comment="Alibaba Singapore" list=games
 add address=161.117.0.0/17 comment="Alibaba Singapore" list=games
+add address=116.87.64.0/18 comment="Starthub Singapore" list=games
