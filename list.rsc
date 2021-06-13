@@ -2,6 +2,8 @@
 /ip firewall address-list
 add list=games address="1.2.3.4"
 rem [find list="games"]
+add address=164.52.91.0/24 comment="Captitalonline Hongkong (iplist SG)" list=games
+add address=159.138.96.0/20 comment="Huawei Cloud Singapore" list=games
 add address=119.81.64.0/18 comment="Softlayer Singapore" list=games
 add address=23.236.118.0/24 comment="Zenlayer Singapore" list=games
 add address=128.1.87.0/24 comment="Zenlayer Singapore" list=games
